@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Data Overview
+# 📊 Superstore Sales Report Overview
 
 This project analyzes Superstore sales data using interactive dashboards to uncover key business insights.
 
